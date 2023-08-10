@@ -1,0 +1,1 @@
+University admission prediction using linear regression is a statistical approach to estimate the likelihood of a student being accepted into a university based on certain input features. In this context,linear regression is used to establish a relationship between the predictor variables
